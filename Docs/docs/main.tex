@@ -1,0 +1,65 @@
+\documentclass[12pt, twosides]{report}
+
+\include{preamble}
+
+\title{
+	{Drónok irányítása}\\
+	{\large Sapientia\\
+	Erdélyi Magyar Tudományegyetem, Marosvásárhely}
+}
+\author{
+	Vasi, András\\
+	\texttt{vasi.andras@student.ms.sapientia.ro}
+		
+}
+\date{2024}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\section{Bevezető}
+
+\pagenumbering{gobble}
+
+\tableofcontents
+
+\listoffigures
+
+\chapter{Irodalmi áttekintés}
+\input{chapters/irodalmi_attekintes}
+
+\chapter{A projekt leírása}
+\input{chapters/projekt_leiras}
+
+\chapter{Drón tervezése és felépítése}
+\input{chapters/tervezes_es_felepites}
+
+\chapter{Irányítási rendszer}
+\input{chapters/iranyitasi_rendszer}
+
+\chapter{Szimuláció}
+\input{chapters/szimulacio}
+
+\chapter{Megvalósítás és tesztelés}
+\input{chapters/megvalositas_es_teszteles}
+
+\chapter{Eredmények és értékelés}
+\input{chapters/eredmenyek_es_ertekeles}
+
+\chapter{Következtetések és jövőbeli munka}
+\input{chapters/kovetkeztetesek_jovobeli_munka}
+
+\chapter{Mellékletek}
+\input{chapters/mellekletek}
+
+\addcontentsline{toc}{chapter}{Irodalomjegyzék}
+\bibliographystyle{ieeetr}
+\bibliography{References}
+
+% \appendix
+% \chapter{Függelék}
+% \input{chapters/appendix}
+
+
+\end{document}
