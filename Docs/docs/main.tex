@@ -16,13 +16,15 @@
 
 \begin{document}
 
-\pagenumbering{gobble}
+\includepdf[pages={1}]{borito.pdf}
 
 \tableofcontents
 
 \listoffigures
 
-\section{Bevezető}
+\pagenumbering{arabic}
+
+\chapter{Bevezető}
 \input{chapters/bevezeto}
 
 \chapter{Irodalmi áttekintés}
@@ -33,9 +35,6 @@
 
 \chapter{Drón tervezése és felépítése}
 \input{chapters/tervezes_es_felepites}
-
-\chapter{Irányítási rendszer}
-\input{chapters/iranyitasi_rendszer}
 
 \chapter{Szimuláció}
 \input{chapters/szimulacio}
@@ -49,16 +48,9 @@
 \chapter{Következtetések és jövőbeli munka}
 \input{chapters/kovetkeztetesek_jovobeli_munka}
 
-\chapter{Mellékletek}
-\input{chapters/mellekletek}
-
 \addcontentsline{toc}{chapter}{Irodalomjegyzék}
 \bibliographystyle{ieeetr}
 \bibliography{References}
-
-% \appendix
-% \chapter{Függelék}
-% \input{chapters/appendix}
 
 
 \end{document}

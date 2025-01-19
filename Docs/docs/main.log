@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  4 DEC 2024 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.25)  20 JAN 2025 00:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -632,205 +632,225 @@ Package hyperref Info: Link coloring ON on input line 17.
 LaTeX Info: Redefining \cal on input line 577.
 LaTeX Info: Redefining \mit on input line 578.
 )
-(./main.toc
+
+pdfTeX warning: pdflatex (file ./borito.pdf): PDF inclusion: found PDF version 
+<1.7>, but at most version <1.5> allowed
+<borito.pdf, id=71, 597.53635pt x 845.04686pt>
+File: borito.pdf Graphic file (type pdf)
+<use borito.pdf>
+Package pdftex.def Info: borito.pdf  used on input line 19.
+(pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
+
+
+pdfTeX warning: pdflatex (file ./borito.pdf): PDF inclusion: found PDF version 
+<1.7>, but at most version <1.5> allowed
+File: borito.pdf Graphic file (type pdf)
+<use borito.pdf>
+Package pdftex.def Info: borito.pdf  used on input line 19.
+(pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
+
+
+pdfTeX warning: pdflatex (file ./borito.pdf): PDF inclusion: found PDF version 
+<1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./borito.pdf): PDF inclusion: found PDF version 
+<1.7>, but at most version <1.5> allowed
+<borito.pdf, id=74, page=1, 597.53635pt x 845.04686pt>
+File: borito.pdf Graphic file (type pdf)
+<use borito.pdf, page 1>
+Package pdftex.def Info: borito.pdf , page1 used on input line 19.
+(pdftex.def)             Requested size: 597.53488pt x 845.0448pt.
+File: borito.pdf Graphic file (type pdf)
+<use borito.pdf, page 1>
+Package pdftex.def Info: borito.pdf , page1 used on input line 19.
+(pdftex.def)             Requested size: 562.14925pt x 795.00179pt.
+File: borito.pdf Graphic file (type pdf)
+<use borito.pdf, page 1>
+Package pdftex.def Info: borito.pdf , page1 used on input line 19.
+(pdftex.def)             Requested size: 562.14925pt x 795.00179pt.
+File: borito.pdf Graphic file (type pdf)
+<use borito.pdf, page 1>
+Package pdftex.def Info: borito.pdf , page1 used on input line 19.
+(pdftex.def)             Requested size: 562.14925pt x 795.00179pt.
+File: borito.pdf Graphic file (type pdf)
+<use borito.pdf, page 1>
+Package pdftex.def Info: borito.pdf , page1 used on input line 19.
+(pdftex.def)             Requested size: 562.14925pt x 795.00179pt.
+[1
+
+
+
+ <./borito.pdf>] (./main.toc
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 1.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 1.
+ 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 1.
+ 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 1.
+ 3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1
-
-
+ [2
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/base/8r.enc}] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- (./chapters/bevezeto.tex
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.6 
-     [2
 
-])
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 \chapter
-             {Irodalmi áttekintés} [3]
+l.27 \chapter
+             {Bevezető} [1
+
+]
 1. fejezet.
-(./chapters/irodalmi_attekintes.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
+(./chapters/bevezeto.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 \chapter
-             {A projekt leírása} [4
+l.7 A
+      projekt egyik fő kihívása az, hogy olyan irányítási rendszert ho...
+[2
 
-]
+]) [3]
 2. fejezet.
-(./chapters/projekt_leiras.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.34 \chapter
-             {Drón tervezése és felépítése} [5
+(./chapters/irodalmi_attekintes.tex
+Overfull \hbox (6.07083pt too wide) in paragraph at lines 3--4
+[]\T1/ptm/m/n/12 P�ld�ul a meg-fi-gye-l�-si c�-l� dr�-nok-kal kap-cso-la-tos ku
+-ta-t�-sok ki-eme-lik a nehezebb-l�gk�r� (Heavier-
+ []
+
+[4
+
+] [5]) [6]
+3. fejezet.
+(./chapters/projekt_leiras.tex) [7
 
 ]
-3. fejezet.
+4. fejezet.
 (./chapters/tervezes_es_felepites.tex
-<figures/drone_model.JPG, id=86, 1027.84pt x 578.16pt>
+<figures/drone_model.JPG, id=175, 1027.84pt x 578.16pt>
 File: figures/drone_model.JPG Graphic file (type jpg)
 <use figures/drone_model.JPG>
 Package pdftex.def Info: figures/drone_model.JPG  used on input line 11.
 (pdftex.def)             Requested size: 308.35437pt x 173.44933pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.15 
-      [6
-
-])
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.37 \chapter
-             {Irányítási rendszer} [7 <./figures/drone_model.JPG>]
-4. fejezet.
-(./chapters/iranyitasi_rendszer.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.40 \chapter
-             {Szimuláció} [8
+ [8
 
 ]
+<figures/bldc_motor.png, id=180, 928.46875pt x 862.22125pt>
+File: figures/bldc_motor.png Graphic file (type png)
+<use figures/bldc_motor.png>
+Package pdftex.def Info: figures/bldc_motor.png  used on input line 28.
+(pdftex.def)             Requested size: 278.54277pt x 258.66837pt.
+ [9 <./figures/drone_model.JPG>]
+<figures/esc.jpg, id=186, 1003.75pt x 719.68875pt>
+File: figures/esc.jpg Graphic file (type jpg)
+<use figures/esc.jpg>
+Package pdftex.def Info: figures/esc.jpg  used on input line 40.
+(pdftex.def)             Requested size: 301.12732pt x 215.9083pt.
+
+[10 <./figures/bldc_motor.png>]
+<figures/battery.jpg, id=192, 752.8125pt x 752.8125pt>
+File: figures/battery.jpg Graphic file (type jpg)
+<use figures/battery.jpg>
+Package pdftex.def Info: figures/battery.jpg  used on input line 50.
+(pdftex.def)             Requested size: 188.20265pt x 188.20265pt.
+ [11 <./figures/esc.jpg> <./figures/battery.jpg>] [12]) [13]
 5. fejezet.
-(./chapters/szimulacio.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.43 \chapter
-             {Megvalósítás és tesztelés} [9
+(./chapters/szimulacio.tex
+<figures/control-arch.png, id=208, 1315.16344pt x 476.53032pt>
+File: figures/control-arch.png Graphic file (type png)
+<use figures/control-arch.png>
+Package pdftex.def Info: figures/control-arch.png  used on input line 6.
+(pdftex.def)             Requested size: 394.55208pt x 142.96019pt.
+<figures/cascade-pid-control.png, id=209, 1344.52313pt x 525.46312pt>
+File: figures/cascade-pid-control.png Graphic file (type png)
+<use figures/cascade-pid-control.png>
+Package pdftex.def Info: figures/cascade-pid-control.png  used on input line 13
+.
+(pdftex.def)             Requested size: 403.36005pt x 157.64015pt.
+) [14
 
-]
+ <./figures/control-arch.png>] [15 <./figures/cascade-pid-control.png>]
 6. fejezet.
-(./chapters/megvalositas_es_teszteles.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.46 \chapter
-             {Eredmények és értékelés} [10
+(./chapters/megvalositas_es_teszteles.tex
+<figures/simpad.jpg, id=218, 189.3474pt x 225.0006pt>
+File: figures/simpad.jpg Graphic file (type jpg)
+<use figures/simpad.jpg>
+Package pdftex.def Info: figures/simpad.jpg  used on input line 3.
+(pdftex.def)             Requested size: 189.34692pt x 225.00003pt.
+) [16
 
-]
+ <./figures/simpad.jpg>]
 7. fejezet.
-(./chapters/eredmenyek_es_ertekeles.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.49 \chapter
-             {Következtetések és jövőbeli munka} [11
+(./chapters/eredmenyek_es_ertekeles.tex) [17
 
 ]
 8. fejezet.
-(./chapters/kovetkeztetesek_jovobeli_munka.tex)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.52 \chapter
-             {Mellékletek} [12
+(./chapters/kovetkeztetesek_jovobeli_munka.tex) (./main.bbl [18
+
+]) [19
 
 ]
-9. fejezet.
-(./chapters/mellekletek.tex) (./main.bbl
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1 \begin{thebibliography}{}
-                              [13
-
-]
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-)
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.64 \end{document}
-                    [14
-
-] (./main.aux)
+(./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B0001D5418BC39562128421FE90E2866;1909.
+(rerunfilecheck)             Checksum: 617C048C4383E16D2371201F8754095F;3127.
  ) 
 Here is how much of TeX's memory you used:
- 15784 strings out of 475509
- 252549 string characters out of 5776663
- 1929975 words of memory out of 5000000
- 37559 multiletter control sequences out of 15000+600000
- 581680 words of font info for 66 fonts, out of 8000000 for 9000
+ 15897 strings out of 475509
+ 254749 string characters out of 5776663
+ 1930975 words of memory out of 5000000
+ 37638 multiletter control sequences out of 15000+600000
+ 588975 words of font info for 71 fonts, out of 8000000 for 9000
  395 hyphenation exceptions out of 8191
- 82i,7n,84p,990b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 82i,17n,84p,990b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on main.pdf (14 pages, 77438 bytes).
+exlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (21 pages, 1828653 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 269 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 192 words of extra memory for PDF output out of 10000 (max. 10000000)
 

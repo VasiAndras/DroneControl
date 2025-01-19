@@ -1,12 +1,19 @@
-\select@language {magyar} \contentsline {section}{\numberline {0.1}Bevezető}{}{section.0.1}%
-\select@language {magyar} \contentsline {chapter}{\numberline {1}Irodalmi áttekintés}{}{chapter.1}%
-\select@language {magyar} \contentsline {chapter}{\numberline {2}A projekt leírása}{}{chapter.2}%
-\select@language {magyar} \contentsline {chapter}{\numberline {3}Drón tervezése és felépítése}{}{chapter.3}%
-\select@language {magyar} \contentsline {section}{\numberline {3.1}Tartószerkezet és 3D nyomtatott váz}{}{section.3.1}%
-\select@language {magyar} \contentsline {chapter}{\numberline {4}Irányítási rendszer}{}{chapter.4}%
-\select@language {magyar} \contentsline {chapter}{\numberline {5}Szimuláció}{}{chapter.5}%
-\select@language {magyar} \contentsline {chapter}{\numberline {6}Megvalósítás és tesztelés}{}{chapter.6}%
-\select@language {magyar} \contentsline {chapter}{\numberline {7}Eredmények és értékelés}{}{chapter.7}%
-\select@language {magyar} \contentsline {chapter}{\numberline {8}Következtetések és jövőbeli munka}{}{chapter.8}%
-\select@language {magyar} \contentsline {chapter}{\numberline {9}Mellékletek}{}{chapter.9}%
-\select@language {magyar} \contentsline {chapter}{Irodalomjegyzék}{}{chapter.9}%
+\select@language {magyar} \contentsline {chapter}{\numberline {1}Bevezető}{2}{chapter.1}%
+\select@language {magyar} \contentsline {chapter}{\numberline {2}Irodalmi áttekintés}{4}{chapter.2}%
+\select@language {magyar} \contentsline {section}{\numberline {2.1}Szabályozási algoritmusok áttekintése: Hagyományos és modern megközelítések}{5}{section.2.1}%
+\select@language {magyar} \contentsline {chapter}{\numberline {3}A projekt leírása}{7}{chapter.3}%
+\select@language {magyar} \contentsline {chapter}{\numberline {4}Drón tervezése és felépítése}{8}{chapter.4}%
+\select@language {magyar} \contentsline {section}{\numberline {4.1}Tartószerkezet és 3D nyomtatott váz}{8}{section.4.1}%
+\select@language {magyar} \contentsline {section}{\numberline {4.2}Elektronikai aklatrészek}{9}{section.4.2}%
+\select@language {magyar} \contentsline {subsection}{\numberline {4.2.1}BLDC motorok}{9}{subsection.4.2.1}%
+\select@language {magyar} \contentsline {subsection}{\numberline {4.2.2}ESC-k}{10}{subsection.4.2.2}%
+\select@language {magyar} \contentsline {subsection}{\numberline {4.2.3}Akkumulátor}{11}{subsection.4.2.3}%
+\select@language {magyar} \contentsline {subsection}{\numberline {4.2.4}Központi vezérlőegység}{12}{subsection.4.2.4}%
+\select@language {magyar} \contentsline {subsubsection}{IMU (Inerciális mérőegység)}{12}{section*.3}%
+\select@language {magyar} \contentsline {subsubsection}{Kalman-szűrő}{13}{section*.4}%
+\select@language {magyar} \contentsline {chapter}{\numberline {5}Szimuláció}{14}{chapter.5}%
+\select@language {magyar} \contentsline {section}{\numberline {5.1}A drón kontroller modellje MATLAB Simulinkben}{14}{section.5.1}%
+\select@language {magyar} \contentsline {chapter}{\numberline {6}Megvalósítás és tesztelés}{16}{chapter.6}%
+\select@language {magyar} \contentsline {chapter}{\numberline {7}Eredmények és értékelés}{17}{chapter.7}%
+\select@language {magyar} \contentsline {chapter}{\numberline {8}Következtetések és jövőbeli munka}{18}{chapter.8}%
+\select@language {magyar} \contentsline {chapter}{Irodalomjegyzék}{18}{chapter.8}%

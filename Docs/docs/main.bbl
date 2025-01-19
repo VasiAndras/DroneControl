@@ -1,3 +1,34 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{tadic2021application}
+S.~Tadi{\'c}, M.~Kova{\v{c}}, and O.~{\v{C}}okorilo, ``The application of
+  drones in city logistics concepts,'' {\em Promet-Traffic\&Transportation},
+  vol.~33, no.~3, pp.~451--462, 2021.
+
+\bibitem{doornbos2024drone}
+J.~Doornbos, K.~E. Bennin, {\"O}.~Babur, and J.~Valente, ``Drone technologies:
+  A tertiary systematic literature review on a decade of improvements,'' {\em
+  IEEE Access}, 2024.
+
+\bibitem{adorni2021literature}
+E.~Adorni, A.~Rozhok, R.~Revetria, and M.~Ivanov, ``Literature review on drones
+  used in the surveillance field,'' in {\em Lecture Notes in Engineering and
+  Computer Science: Proceedings of the International MultiConference of
+  Engineers and Computer Scientists}, pp.~20--22, 2021.
+
+\bibitem{lee2023review}
+M.-F.~R. Lee, ``A review on intelligent control theory and applications in
+  process optimization and smart manufacturing,'' {\em Processes}, vol.~11,
+  no.~11, p.~3171, 2023.
+
+\bibitem{schwenzer2021review}
+M.~Schwenzer, M.~Ay, T.~Bergs, and D.~Abel, ``Review on model predictive
+  control: An engineering perspective,'' {\em The International Journal of
+  Advanced Manufacturing Technology}, vol.~117, no.~5, pp.~1327--1349, 2021.
+
+\bibitem{borase2021review}
+R.~P. Borase, D.~Maghade, S.~Sondkar, and S.~Pawar, ``A review of pid control,
+  tuning methods and applications,'' {\em International Journal of Dynamics and
+  Control}, vol.~9, pp.~818--827, 2021.
 
 \end{thebibliography}

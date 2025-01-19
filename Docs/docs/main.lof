@@ -1,10 +1,15 @@
 \select@language {magyar} \addvspace {10\p@ }
 \select@language {magyar} \addvspace {10\p@ }
 \select@language {magyar} \addvspace {10\p@ }
-\select@language {magyar} \contentsline {figure}{\numberline {3.1}{\ignorespaces A drón 3D -s modellje}}{}{figure.3.1}%
 \select@language {magyar} \addvspace {10\p@ }
+\select@language {magyar} \contentsline {figure}{\numberline {4.1}{\ignorespaces A drón 3D -s modellje}}{9}{figure.4.1}%
+\select@language {magyar} \contentsline {figure}{\numberline {4.2}{\ignorespaces Drónhoz felhasznált BLDC motrok}}{10}{figure.4.2}%
+\select@language {magyar} \contentsline {figure}{\numberline {4.3}{\ignorespaces Drónhoz felhasznált ESC-k}}{11}{figure.4.3}%
+\select@language {magyar} \contentsline {figure}{\numberline {4.4}{\ignorespaces Drónhoz felhasználható akkumulátorok}}{11}{figure.4.4}%
 \select@language {magyar} \addvspace {10\p@ }
+\select@language {magyar} \contentsline {figure}{\numberline {5.1}{\ignorespaces Drón kontroller architechtúrája}}{14}{figure.5.1}%
+\select@language {magyar} \contentsline {figure}{\numberline {5.2}{\ignorespaces Drón visszacsatolt rendszerének cascade szabályzása}}{15}{figure.5.2}%
 \select@language {magyar} \addvspace {10\p@ }
-\select@language {magyar} \addvspace {10\p@ }
+\select@language {magyar} \contentsline {figure}{\numberline {6.1}{\ignorespaces Drón szabályzásának vizsválatára használt berendezés}}{16}{figure.6.1}%
 \select@language {magyar} \addvspace {10\p@ }
 \select@language {magyar} \addvspace {10\p@ }
