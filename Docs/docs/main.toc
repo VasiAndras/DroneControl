@@ -15,5 +15,5 @@
 \select@language {magyar} \contentsline {section}{\numberline {5.1}A drón kontroller modellje MATLAB Simulinkben}{14}{section.5.1}%
 \select@language {magyar} \contentsline {chapter}{\numberline {6}Megvalósítás és tesztelés}{16}{chapter.6}%
 \select@language {magyar} \contentsline {chapter}{\numberline {7}Eredmények és értékelés}{17}{chapter.7}%
-\select@language {magyar} \contentsline {chapter}{\numberline {8}Következtetések és jövőbeli munka}{18}{chapter.8}%
-\select@language {magyar} \contentsline {chapter}{Irodalomjegyzék}{18}{chapter.8}%
+\select@language {magyar} \contentsline {chapter}{\numberline {8}Következtetések és jövőbeli munka}{19}{chapter.8}%
+\select@language {magyar} \contentsline {chapter}{Irodalomjegyzék}{19}{chapter.8}%
